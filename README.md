@@ -16,14 +16,14 @@ The `BigInt` library is a C++ implementation for handling large integers beyond 
 This library consists of three main files:
 
 1. **`BigInt.h`:** Header file containing all the prototypes of the member functions.
-2. **`BigInt.cpp`:** Implementation file containing the code for all the member functions.
-3. **`main.cpp`:** The main file that includes the `BigInt.h` header and contains code to demonstrate the usage of the `BigInt` library.
+3. **`BigInt.cpp`:** Implementation file containing the code for all the member functions.
+4. **`main.cpp`:** The main file that includes the `BigInt.h` header and contains code to demonstrate the usage of the `BigInt` library.
 
 ## Installation and Usage
 
 **Compile the Code:**
-   Navigate to the directory containing the files
-   Before compiling run BigInt.cpp and then run following command in terminal
+  1. Navigate to the directory/folder containing the files.
+  2. Run `BigInt.cpp` and then run the following commands in `terminal` one by one given below:
    ```bash
    g++ -o BigInt main.cpp BigInt.cpp
    .\BigInt
