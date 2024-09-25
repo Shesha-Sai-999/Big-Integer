@@ -2,7 +2,7 @@
 
 ## Overview
 
-The `BigInt` library is a C++ implementation for handling large integers beyond the standard data types. This library supports various arithmetic operations such as addition, subtraction, multiplication, division, modulus, exponentiation and many more operators.
+The `BigInt` library is a C++ implementation for handling large integers beyond the standard data types. This library supports various arithmetic operations such as addition, subtraction, multiplication, division, modulus, exponentiation and many more operators only limited for `Positive Numbers`.
 
 ## Features
 
